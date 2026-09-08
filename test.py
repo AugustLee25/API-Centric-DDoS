@@ -5,8 +5,8 @@ import random
 import logging
 
 # --- CẤU HÌNH MỤC TIÊU CỰC ĐOAN ---
-TARGET_URL = "http://203.171.20.94/api/v1/process" 
-MAX_CONCURRENT_CONNECTIONS = 10000  # Con số mục tiêu của bạn
+TARGET_URL = "xxx" 
+MAX_CONCURRENT_CONNECTIONS = 100000  # Con số mục tiêu của bạn
 TIMEOUT_SECONDS = 5                 # Thời gian chờ phản hồi
 
 # --- CẤU HÌNH PAYLOAD KHỦNG ---
