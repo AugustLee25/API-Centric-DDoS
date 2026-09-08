@@ -86,4 +86,4 @@ python test.py
 ```
 
 ---
-*Dự án được thực hiện bởi **[Tên của bạn]** nhằm mục đích nghiên cứu Cybersecurity.*
+*Dự án được thực hiện bởi **Obito** nhằm mục đích nghiên cứu Cybersecurity.*
